@@ -1,6 +1,5 @@
 *.o
-data/sounds/*.h
-data/songs/*.asm
+*.asm
 *.swp
 *.lst
 *.rel
@@ -10,3 +9,4 @@ data/songs/*.asm
 *.sym
 *.lk
 *.sav
+*.gb
