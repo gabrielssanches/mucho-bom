@@ -1,0 +1,2 @@
+pip3 install pypng
+sudo apt install default-jre
